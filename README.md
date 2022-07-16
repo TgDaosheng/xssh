@@ -1,11 +1,11 @@
-# 永久免费4核32G的LinuxVPS
-今天给大家带来这个免费的服务器，有root访问权限，Debian系统，x86架构要比ibm的更实用些。而且部署还算简单，无需信用卡。
+永久免费4核32G的LinuxVPS
 
-仅仅需要一个GitHub账号即可！不过这个账号不能是qq邮箱注册的，这个后缀不行。如果你正好是qq注册的，可以在GitHub后台添加个gmail邮箱，并且把原来的删除即可。小提示：如果你网络无法访问GitHub，看看https://iweec.com/381.html
+今天给大家带来这个免费的服务器，有root访问权限，Debian系统，x86架构要比ibm的更实用些。而且部署还算简单，无需信用卡。
+仅仅需要一个GitHub账号即可！
 
 开始操作：
 
-一、打开页面：https://github.com/MetaVPS/xssh 直接登录，创建一个分支，库名称保持xssh；
+一、打开页面：https://github.com/TgDaosheng/xssh 直接登录，创建一个分支，库名称保持xssh；
 
 二、打开页面：https://dashboard.ngrok.com/login 直接使用GitHub账号登录，然后在入门中找到授权令牌如图：
 
